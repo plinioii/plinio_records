@@ -1,0 +1,8 @@
+Cartella facoltativa.
+
+Se metti qui collection.csv e wantlist.csv (gli export di Discogs rinominati così),
+l'app li carica da sola su ogni dispositivo che non ha ancora caricato un file a mano.
+
+Attenzione: se il repository GitHub è pubblico, chiunque abbia il link può scaricare
+questi file (note comprese). Se preferisci tenerli privati lascia vuota la cartella
+e usa il pulsante "Carica CSV" nell'app: il file resta solo su quel dispositivo.
